@@ -12,10 +12,6 @@
   },
   "devDependencies": {
     "@babel/core": "^7.15.0",
-    "@fortawesome/fontawesome-svg-core": "^1.2.36",
-    "@fortawesome/free-regular-svg-icons": "^5.15.4",
-    "@fortawesome/free-solid-svg-icons": "^5.15.4",
-    "@fortawesome/vue-fontawesome": "^3.0.0-4",
     "@storybook/addon-actions": "6.4.0-alpha.32",
     "@storybook/addon-essentials": "6.4.0-alpha.32",
     "@storybook/addon-links": "6.4.0-alpha.32",
